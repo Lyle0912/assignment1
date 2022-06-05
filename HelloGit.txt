@@ -1,4 +1,3 @@
 Hello Git!
-How are you
 
 It is nice to work with you
